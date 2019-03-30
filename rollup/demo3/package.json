@@ -1,0 +1,14 @@
+{
+  "name": "demo3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rollup.config.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup-plugin-json": "^4.0.0"
+  }
+}
