@@ -1,0 +1,19 @@
+#root {
+  width: 100vw;
+  height: 200vh;
+}
+
+h1 {
+  color: red;
+  margin: 12px;
+  padding: 12px;
+  font-size: 12px;
+  background-color: rgb(230, 221, 222);
+}
+
+
+h2 {
+  color: red;
+  margin: 12px;
+  padding: 12px;
+}
