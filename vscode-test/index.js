@@ -1,38 +1,46 @@
-let str = "this is a string"
-function foo() {
-  console.log(str)
-  test()
-  return 123
-}
+// let str = "this is a string"
+// function foo() {
+//   console.log(str)
+//   test()
+//   return 123
+// }
 
 
-function test() {
-  kuangjiajia()
-  return "kuangjiajia"
-}
-
-foo()
+// function test() {
+//   kuangjiajia()
+//   return "kuangjiajia"
+// }
 
 
+// const num = require("./common/index").num
 
-function kuangjiajia() {
-  console.log("this is a test")
-}
+// console.log(num)
 
 
-class Person {
-  //constructor
-  constructor(name) {
-    this.name = name
-  }
-}
+// function kuangjiajia() {
+//   console.log("this is a test")
+// }
 
-class Student extends Person {
-  constructor(name, age) {
-    super(name)
-    this.age = age
-  }
-}
 
-let kuangjiajia2 = new Person("kuangjiajia", 30)
-console.log(kuangjiajia2)
+// class Person {
+//   //constructor
+//   constructor(name) {
+//     this.name = name
+//   }
+// }
+
+// class Student extends Person {
+//   constructor(name, age) {
+//     super(name)
+//     this.age = age
+//   }
+// }
+
+// let kuangjiajia2 = new Person("kuangjiajia", 30)
+// console.log(kuangjiajia2)
+
+// console.log("kuangjiajia");
+// console.log("kuangjiajia");
+
+
+console.log(123)
